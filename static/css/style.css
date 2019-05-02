@@ -268,36 +268,3 @@ select {
     opacity: 1;
   }
 }
-
-/* keyframe animations which will be used to animate the title */
-/* @keyframes title {
-  from {
-    opacity: 0;
-  }
-
-  to {
-    font-size: 7.5rem;
-    opacity: 1;
-  }
-}
-
-@keyframes smaller-title {
-  from {
-    opacity: 0;
-  }
-
-  to {
-    font-size: 5.5rem;
-    opacity: 1;
-  }
-}
-
-@keyframes subtitle {
-  from {
-    opacity: 0;
-  }
-
-  to {
-    opacity: 1;
-  }
-} */
